@@ -25,7 +25,7 @@ def title_check(current_titles, possible_titles):
                 titles.append(current_title)
 
     return titles
-
+    #  Позже попробовать реализовать и сравнить результат
 
 #  функция для проверки на мусорный ввод
 def normalize_titles(cut_data, possible_links):

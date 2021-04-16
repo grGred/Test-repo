@@ -22,7 +22,3 @@ a = []
 for possible_link in soup.find_all('a'):
     a.append(str(possible_link.get('href')))
 print(a)
-'''
-Здесь первая строка то что как раз ин адо
-'/w/index.php?title=Online_chat&action=edit&section=5', '/wiki/Chat_room', '/wiki/Collaborative_software', '/wiki/Instant_messaging', '/wiki/Internet_forum', '/wiki/Online_dating_service', '/wiki/Real-time_text', '/wiki/Videotelephony', '/wiki/Voice_chat', 
-'''
