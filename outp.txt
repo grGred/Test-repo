@@ -1,123 +1,123 @@
-Chat room
-Collaborative software
-Instant messaging
-Internet forum
-Online dating service
-Real-time text
+Chat_room
+Collaborative_software
+Instant_messaging
+Internet_forum
+Online_dating_service
+Real-time_text
 Videotelephony
-Voice chat
+Voice_chat
 Email
-Internet Relay Chat
-List of chat websites
-Online chat
-Collaboration technologies
+Internet_Relay_Chat
+List_of_chat_websites
+Online_chat
+Collaboration_technologies
 Telecommuting
-Closely related terms
-Computer supported cooperative work
-Integrated collaboration environment
-Groupware type of applications
-Content management system
-Customer relationship management software
-Document management system
-Enterprise content management
-Event management software
+Closely_related_terms
+Computer_supported_cooperative_work
+Integrated_collaboration_environment
+Groupware_type_of_applications
+Content_management_system
+Customer_relationship_management_software
+Document_management_system
+Enterprise_content_management
+Event_management_software
 Intranet
-Other related type of applications
-Massively distributed collaboration
-Online consultation
-Online deliberation
-Other related terms
-Collaborative innovation network
-Commons-based peer production
-Electronic business
-Information technology management
-Management information systems
+Other_related_type_of_applications
+Massively_distributed_collaboration
+Online_consultation
+Online_deliberation
+Other_related_terms
+Collaborative_innovation_network
+Commons-based_peer_production
+Electronic_business
+Information_technology_management
+Management_information_systems
 Management
-Office of the future
-Operational transformation
-Organizational Memory System
+Office_of_the_future
+Operational_transformation
+Organizational_Memory_System
 Worknet
-Cloud collaboration
-Document collaboration
+Cloud_collaboration
+Document_collaboration
 MediaWiki
 Wikipedia
-Lists of collaborative software
-List of collaborative software
-List of social bookmarking websites
-Intranet portal
-Enterprise portal
+Lists_of_collaborative_software
+List_of_collaborative_software
+List_of_social_bookmarking_websites
+Intranet_portal
+Enterprise_portal
 Citations
 Backchannel
-Chat log
+Chat_log
 Chatbot
 Circuit
-Comparison of user features of messaging platforms
-Contact list
+Comparison_of_user_features_of_messaging_platforms
+Contact_list
 Emoticon
-File sharing
+File_sharing
 FirstClass
 Flock
-Fuze Box
-LAN messenger
-Messaging apps
-Presence information
-RingCentral Glip
+Fuze_Box
+LAN_messenger
+Messaging_apps
+Presence_information
+RingCentral_Glip
 Shoutbox
-SMS language
-Status message
+SMS_language
+Status_message
 U-Report
 Videotelephony
-Voice over IP
-Web chat
+Voice_over_IP
+Web_chat
 Webcam
 Yammer
-vteComputer-mediated communication
-Online chat
-Online discussion
-Communication software
-Collaborative software
-Social network service
-Virtual learning environment
-Asynchronous conferencing
+vteComputer-mediated_communication
+Online_chat
+Online_discussion
+Communication_software
+Collaborative_software
+Social_network_service
+Virtual_learning_environment
+Asynchronous_conferencing
 Email
-Electronic mailing list
+Electronic_mailing_list
 FidoNet
 Usenet
-Internet forum
+Internet_forum
 Textboard
 Imageboard
 Shoutbox
-Bulletin board system
-Online guestbook
-Synchronous conferencing
-Data conferencing
-Instant messaging
-Internet Relay Chat
-LAN messenger
+Bulletin_board_system
+Online_guestbook
+Synchronous_conferencing
+Data_conferencing
+Instant_messaging
+Internet_Relay_Chat
+LAN_messenger
 Talker
 Videoconferencing
-Voice over IP
-Voice chat in online gaming
-Web chat
-Web conferencing
+Voice_over_IP
+Voice_chat_in_online_gaming
+Web_chat
+Web_conferencing
 Publishing
 Blog
 Microblogging
 Wiki
-vteWeb syndication
+vteWeb_syndication
 History
 Blogging
 Podcasting
 Vlogging
-Web syndication technology
+Web_syndication_technology
 Types
 Art
 Bloggernacle
-Classical music
+Classical_music
 Corporate
-Dream diary
+Dream_diary
 Edublog
-Electronic journal
+Electronic_journal
 Fake
 Family
 Fashion
@@ -138,7 +138,7 @@ Travel
 Warblog
 TechnologyGeneral
 BitTorrent
-Feed URI scheme
+Feed_URI_scheme
 Features
 Linkback
 Permalink
@@ -149,40 +149,40 @@ Refback
 Rollback
 Trackback
 Mechanism
-Conversation threading
+Conversation_threading
 Geotagging
-RSS enclosure
+RSS_enclosure
 Synchronization
 Memetics
-Atom feed
-Data feed
+Atom_feed
+Data_feed
 Photofeed
-Product feed
-RDF feed
-Web feed
+Product_feed
+RDF_feed
+Web_feed
 RSS
 GeoRSS
 MRSS
-RSS TV
+RSS_TV
 Social
-Inter-process communication
+Inter-process_communication
 Livemark
 Mashup
 Referencing
-RSS editor
-RSS tracking
-Streaming media
+RSS_editor
+RSS_tracking
+Streaming_media
 Standard
 OML
 OPML
-RSS Advisory Board
+RSS_Advisory_Board
 Usenet
-World Wide Web
+World_Wide_Web
 XBEL
 XOXO
 Form
-Audio podcast
-Enhanced podcast
+Audio_podcast
+Enhanced_podcast
 Mobilecast
 Narrowcasting
 Peercasting
@@ -191,29 +191,29 @@ Slidecasting
 Videocast
 Webcomic
 Webtoon
-Web series
-Anonymous blogging
-Collaborative blog
+Web_series
+Anonymous_blogging
+Collaborative_blog
 Columnist
-Instant messaging
+Instant_messaging
 Liveblogging
 Microblog
-Mobile blogging
+Mobile_blogging
 Roblog
-Spam blog
-Video blogging
+Spam_blog
+Video_blogging
 Motovlogging
-MediaAlternative media
+MediaAlternative_media
 Carnivals
 Fiction
 Journalism
 Citizen
 Database
-Online diary
-Search engines
+Online_diary
+Search_engines
 Sideblog
 Software
-Web directory
+Web_directory
 Micromedia
 Aggregation
 News
@@ -228,432 +228,149 @@ Hashtag
 NewsML
 1
 G2
-Social communication
-Social software
-Web Slice
+Social_communication
+Social_software
+Web_Slice
 Related
 Blogosphere
 Escribitionist
-Glossary of blogging
-Pay per click
-Posting style
-Slashdot effect
-Spam in blogs
-Uses of podcasting
-Authority control 
-Navigation menu
-Personal tools
-Not logged inTalkContributionsCreate accountLog in
+Glossary_of_blogging
+Pay_per_click
+Posting_style
+Slashdot_effect
+Spam_in_blogs
+Uses_of_podcasting
+Authority_control_
+Navigation_menu
+Personal_tools
+Not_logged_inTalkContributionsCreate_accountLog_in
 Namespaces
 ArticleTalk
 Variants
 Views
-ReadEditView history
+ReadEditView_history
 More
 Search
 Navigation
-Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Main_pageContentsCurrent_eventsRandom_articleAbout_WikipediaContact_usDonate
 Contribute
-HelpLearn to editCommunity portalRecent changesUpload file
+HelpLearn_to_editCommunity_portalRecent_changesUpload_file
 Tools
-Download as PDFPrintable version
-In other projects
-Wikimedia Commons
+Download_as_PDFPrintable_version
+In_other_projects
+Wikimedia_Commons
 Languages
-Edit links
-Text is available under the Creative Commons Attribution-ShareAlike License;
-Privacy policy
-About Wikipedia
+Edit_links
+Text_is_available_under_the_Creative_Commons_Attribution-ShareAlike_License;
+Privacy_policy
+About_Wikipedia
 Disclaimers
-Contact Wikipedia
-Mobile view
+Contact_Wikipedia
+Mobile_view
 Developers
 Statistics
-Cookie statement
+Cookie_statement
 Thread
-Process scheduling
+Process_scheduling
 Resources
-phpBB (open-source code copyrighted platform)
-External links
-Xenforo Forums
-Delphi Forums
-Adobe forums posting guidelines
-The Purple Martin Forum Posting Policy
-Threadbombing: Bump Images
-Why people like to use Internet forums
-vteComputer-mediated communication
-Online chat
-Online discussion
-Communication software
-Collaborative software
-Social network service
-Virtual learning environment
-Asynchronous conferencing
+phpBB_(open-source_code_copyrighted_platform)
+External_links
+Xenforo_Forums
+Delphi_Forums
+Adobe_forums_posting_guidelines
+The_Purple_Martin_Forum_Posting_Policy
+Threadbombing:_Bump_Images
+Why_people_like_to_use_Internet_forums
+vteComputer-mediated_communication
+Online_chat
+Online_discussion
+Communication_software
+Collaborative_software
+Social_network_service
+Virtual_learning_environment
+Asynchronous_conferencing
 Email
-Electronic mailing list
+Electronic_mailing_list
 FidoNet
 Usenet
-Internet forum
+Internet_forum
 Textboard
 Imageboard
 Shoutbox
-Bulletin board system
-Online guestbook
-Synchronous conferencing
-Data conferencing
-Instant messaging
-Internet Relay Chat
-LAN messenger
+Bulletin_board_system
+Online_guestbook
+Synchronous_conferencing
+Data_conferencing
+Instant_messaging
+Internet_Relay_Chat
+LAN_messenger
 Talker
 Videoconferencing
-Voice over IP
-Voice chat in online gaming
-Web chat
-Web conferencing
+Voice_over_IP
+Voice_chat_in_online_gaming
+Web_chat
+Web_conferencing
 Publishing
 Blog
 Microblogging
 Wiki
-Navigation menu
-Personal tools
-Not logged inTalkContributionsCreate accountLog in
+Navigation_menu
+Personal_tools
+Not_logged_inTalkContributionsCreate_accountLog_in
 Namespaces
 ArticleTalk
 Variants
 Views
-ReadView sourceView history
+ReadView_sourceView_history
 More
 Search
 Navigation
-Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Main_pageContentsCurrent_eventsRandom_articleAbout_WikipediaContact_usDonate
 Contribute
-HelpLearn to editCommunity portalRecent changesUpload file
+HelpLearn_to_editCommunity_portalRecent_changesUpload_file
 Tools
-Download as PDFPrintable version
-In other projects
-Wikimedia CommonsWikiversity
+Download_as_PDFPrintable_version
+In_other_projects
+Wikimedia_CommonsWikiversity
 Languages
-Edit links
-Text is available under the Creative Commons Attribution-ShareAlike License;
-Privacy policy
-About Wikipedia
+Edit_links
+Text_is_available_under_the_Creative_Commons_Attribution-ShareAlike_License;
+Privacy_policy
+About_Wikipedia
 Disclaimers
-Contact Wikipedia
-Mobile view
+Contact_Wikipedia
+Mobile_view
 Developers
 Statistics
-Cookie statement
-Internet portal
-Human sexuality portal
-Society portal
-Comparison of online dating websites
+Cookie_statement
+Internet_portal
+Human_sexuality_portal
+Society_portal
+Comparison_of_online_dating_websites
 FOSTA-SESTA
-List of social networking services
-Matrimonial website
-Mobile dating
-Online dating applications
-Online identity
-Timeline of online dating services
-Sexual selection in humans
-Stable marriage problem and the Gale–Shapley algorithm
-Collaborative real-time editor
-Text over IP
-3GP and 3G2
-Comparison of web conferencing software
-Information appliance
-List of video telecommunication services and product brands
-Media phone
-Mobile VoIP
-Press videoconferencing
+List_of_social_networking_services
+Matrimonial_website
+Mobile_dating
+Online_dating_applications
+Online_identity
+Timeline_of_online_dating_services
+Sexual_selection_in_humans
+Stable_marriage_problem_and_the_Gale–Shapley_algorithm
+Collaborative_real-time_editor
+Text_over_IP
+3GP_and_3G2
+Comparison_of_web_conferencing_software
+Information_appliance
+List_of_video_telecommunication_services_and_product_brands
+Media_phone
+Mobile_VoIP
+Press_videoconferencing
 Smartphone
 Telecollaboration
 Teleconference
-Telephony—the ancestral technology
+Telephony—the_ancestral_technology
 Teletraining
-Visual communication
-VROC (Virtual Researcher on Call)
-Web conferencing
+Visual_communication
+VROC_(Virtual_Researcher_on_Call)
+Web_conferencing
 Notes
-Video games portal
-Comparison of VoIP software
-Massively multiplayer online game
-Online game
-Video game culture
-Anonymous remailer
-Anti-spam techniques
-biff
-Bounce message
-Comparison of email clients
-Dark Mail Alliance
-Disposable email address
-E-card
-Electronic mailing list
-Email art
-Email authentication
-Email digest
-Email encryption
-Email hosting service
-Email storm
-Email tracking
-HTML email
-Information overload
-Internet fax
-Internet mail standards
-List of email subject abbreviations
-MCI Mail
-Netiquette
-Posting style
-Privacy-enhanced Electronic Mail
-Push email
-RSS
-Telegraphy
-Unicode and email
-Usenet quoting
-X-Originating-IP
-Yerkish
-Notes
-IRC subculture
-Jarkko Oikarinen
-Clients (comparison)macOS
-Colloquy
-Fire
-Homer (Mac OS)
-Ircle
-Linkinus
-MacIrssi
-Snak
-Microsoft Windows
-Bersirc
-mIRC
-Microsoft Comic Chat
-PIRCH
-Shareaza
-Visual IRC
-Unix-like
-ircII
-Ii
-Cross-platform
-Ayttm
-BitchX
-Irssi
-Konversation
-KVIrc
-LeafChat
-naim
-Nettalk
-Smuxi
-WeeChat
-XChat
-PJIRC
-Quassel IRC
-IceChat
-Multi-IM
-Centericq
-Empathy
-Kopete
-Miranda IM
-Pidgin
-Trillian
-Web-based
-PJIRC
-Mibbit
-Web browser components
-ChatZilla
-Mozilla Application Suite
-Library and plug-ins
-ERC
-rcirc
-Bots (comparison)
-Eggdrop
-Infobot
-Robot9000
-BitlBee
-ZNC
-Daemons
-IRCd
-ircu
-UnrealIRCd
-Networks
-DALnet
-EFnet
-Freenode
-GameSurge
-IRCnet
-OFTC
-QuakeNet
-Rizon
-RusNet
-SlashNET
-Undernet
-vteUniform Resource Identifier (URI) schemesOfficial
-about
-acct
-crid
-data
-file
-ftp
-geo
-gopher
-http
-https
-info
-ldap
-mailto
-nfs
-nntp
-tag
-telnet
-urn
-view-source
-xmpp
-Unofficial
-coffee
-ed2k
-gemini
-feed
-finger
-ldaps
-magnet
-rsync
-ymsgr
-Protocol list
-vteComputer-mediated communication
-Online chat
-Online discussion
-Communication software
-Collaborative software
-Social network service
-Virtual learning environment
-Asynchronous conferencing
-Email
-Electronic mailing list
-FidoNet
-Usenet
-Internet forum
-Textboard
-Imageboard
-Shoutbox
-Bulletin board system
-Online guestbook
-Synchronous conferencing
-Data conferencing
-Instant messaging
-Internet Relay Chat
-LAN messenger
-Talker
-Videoconferencing
-Voice over IP
-Voice chat in online gaming
-Web chat
-Web conferencing
-Publishing
-Blog
-Microblogging
-Wiki
-Navigation menu
-Personal tools
-Not logged inTalkContributionsCreate accountLog in
-Namespaces
-ArticleTalk
-Variants
-Views
-ReadEditView history
-More
-Search
-Navigation
-Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
-Contribute
-HelpLearn to editCommunity portalRecent changesUpload file
-Tools
-Download as PDFPrintable version
-In other projects
-Wikimedia CommonsWikibooks
-Languages
-Edit links
-Text is available under the Creative Commons Attribution-ShareAlike License;
-Privacy policy
-About Wikipedia
-Disclaimers
-Contact Wikipedia
-Mobile view
-Developers
-Statistics
-Cookie statement
-Chat room
-Categories: Lists of websitesChat websitesHidden categories: Articles with short descriptionShort description is different from WikidataArticles lacking sources from September 2013All articles lacking sources
-Navigation menu
-Personal tools
-Not logged inTalkContributionsCreate accountLog in
-Namespaces
-ArticleTalk
-Variants
-Views
-ReadEditView history
-More
-Search
-Navigation
-Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
-Contribute
-HelpLearn to editCommunity portalRecent changesUpload file
-Tools
-Download as PDFPrintable version
-Languages
-Add links
-Text is available under the Creative Commons Attribution-ShareAlike License;
-Privacy policy
-About Wikipedia
-Disclaimers
-Contact Wikipedia
-Mobile view
-Developers
-Statistics
-Cookie statement
-Chat room
-Collaborative software
-Instant messaging
-Internet forum
-Online dating service
-Real-time text
-Videotelephony
-Voice chat
- templates
-Aspects of corporations
-Aspects of jobs
-Aspects of occupations
-Aspects of organizations
-Aspects of workplaces
-Corporate titles
-Organized labor
-Authority control 
-GND: 4121761-5
-MA: 2777061679
-NDL: 00576669
-Navigation menu
-Personal tools
-Not logged inTalkContributionsCreate accountLog in
-Namespaces
-ArticleTalk
-Variants
-Views
-ReadEditView history
-More
-Search
-Navigation
-Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
-Contribute
-HelpLearn to editCommunity portalRecent changesUpload file
-Tools
-Download as PDFPrintable version
-In other projects
-Wikimedia Commons
-Languages
-Edit links
-Text is available under the Creative Commons Attribution-ShareAlike License;
-Privacy policy
-About Wikipedia
-Disclaimers
-Contact Wikipedia
-Mobile view
-Developers
-Statistics
-Cookie statement

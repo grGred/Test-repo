@@ -13,12 +13,22 @@ def find_see_also(data):
         pos = data.find('^')
         data = data[:pos]
     else:
-        data = 'Online_chat'
+        data = ''
     return data
 
 
+def title_check(current_titles, possible_titles):
+    titles = []
+    for possible_title in possible_titles:
+        for current_title in current_titles:
+            if '/wiki/' + current_title == possible_title:
+                titles.append(current_title)
+
+    return titles
+
+
 #  функция для проверки на мусорный ввод
-def normalize_titles(cut_data):
+def normalize_titles(cut_data, possible_links):
     titles = cut_data.split('\n')
     chars = '!/.,:;\'\"?%^#@*&'
 
@@ -53,6 +63,11 @@ def normalize_titles(cut_data):
         if len(title) > 80 or title == 'References':
             titles.remove(title)
 
+    for i in range(len(titles)):
+        titles[i] = titles[i].replace(' ', '_')
+
+    #  titles = title_check(titles, possible_links)
+
     #  Вывод заголовков
     with open('outp.txt', 'a') as f:
         for title in titles:
@@ -79,14 +94,20 @@ def duplicate_check(links, link):
 
 def main():
     links = []
-    links.append('https://en.wikipedia.org/wiki/Online_chat')
+    links.append('https://en.wikipedia.org/wiki/Online chat')
 
     for link in links:
         soup = parsing(link)
+
+        possible_links = []
+
+        for possible_link in soup.find_all('a'):
+            possible_links.append(str(possible_link.get('href')))
+
         cutten_data = find_see_also(soup.text)
 
         #  Заголовки которые мы ищем
-        titles = normalize_titles(cutten_data)
+        titles = normalize_titles(cutten_data, possible_links)
 
         for title in titles:
             link = 'https://en.wikipedia.org/wiki/' + title
@@ -94,6 +115,6 @@ def main():
                 links.append(link)
                 parsing(link)  # Рекусивный поиск ссылок
 
+
 if __name__ == "__main__":
     main()
-
